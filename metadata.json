@@ -1,0 +1,6 @@
+{
+  "name": "TV PermGuard",
+  "description": "Android TV permissions manager, hidden system settings launcher, and special access console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
